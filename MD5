@@ -1,0 +1,17 @@
+dcdffed2c36e1384f70e072b630d2c6f *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+9ee77ecbb9acaec05b4f1d25fa8ea33c *R/NAEPirtparams-package.R
+d7b160a24be55dc62cd5a4f6dde53659 *R/adjustments.R
+1f32172c67ceacd72c03109df2591735 *R/parameters.R
+721a248bcbf888760d0813e89c89fbb1 *R/transformations.R
+0df73d9804b62a6e3919b65a66cd8e99 *README.md
+fac570e0ac0f6bb4e05d76caba625d39 *data/adjustments.RData
+d89c26adf7b887e852496e5d1e37391e *data/parameters.RData
+586484f26b9915af8f300603b2a9d360 *data/transformations.RData
+eff18babb584b064eb4533313eb3cda8 *man/NAEPirtparams-package.Rd
+f832042f97816d10a122dd009a61d838 *man/adjustments.Rd
+413a28625379752a1ee3714955170292 *man/examples/adjustments.R
+73a1a37b2f60495fa29ccd10d6c8d669 *man/examples/parameters.R
+19f424b99dd5ff66d2ecbf53e65c91c4 *man/examples/transformations.R
+c9500bb5e5dd5f469e814001e8f4e254 *man/parameters.Rd
+9882cf6b259a7c888926e3bd772dd222 *man/transformations.Rd
